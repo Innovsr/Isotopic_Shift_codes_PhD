@@ -1,0 +1,22 @@
+7
+5   5   0.5 0.5
+so5s  so5s
+7   7   0.5 0.5
+so7s  so7s
+16  16  0.5 0.5
+so5p1 so5p1
+27  27  1.5 1.5
+so5p3 so5p3
+6   6   0.5 0.5
+so6s so6s
+17  17  0.5 0.5
+so6p1 so6p1
+28  28  1.5 1.5
+so6p3 so6p3
+5s.out
+7s.out
+5p1.out
+5p3.out
+6s.out
+6p1.out
+6p3.out
